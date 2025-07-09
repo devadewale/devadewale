@@ -4,7 +4,7 @@
 
 I'm a passionate **Software Engineer** and **DevOps Engineer** with hands-on experience designing, developing, deploying, and maintaining scalable software solutions and infrastructure. I love building robust applications, automating workflows, and bridging the gap between development and operations.
 
-- 💻 **Languages & Frameworks:** Python, PHP,
+- 💻 **Languages & Frameworks:** Python, PHP, Laravel, CodeIgniter
 - ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Cloudformations, CI/CD (GitHub Actions, Jenkins)
 - 🛠️ **Tools:** Git, Linux, Bash
 
