@@ -4,9 +4,9 @@
 
 I'm a passionate **Software Engineer** and **DevOps Engineer** with hands-on experience designing, developing, deploying, and maintaining scalable software solutions and infrastructure. I love building robust applications, automating workflows, and bridging the gap between development and operations.
 
-- 💻 **Languages & Frameworks:** Python, JavaScript/TypeScript, Node.js, React, Go
-- ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins)
-- 🛠️ **Tools:** Git, Linux, Bash, Ansible, Prometheus, Grafana
+- 💻 **Languages & Frameworks:** Python, PHP,
+- ☁️ **Cloud & DevOps:** AWS, Azure, Docker, Cloudformations, CI/CD (GitHub Actions, Jenkins)
+- 🛠️ **Tools:** Git, Linux, Bash
 
 ## 💡 What I Do
 
@@ -19,14 +19,14 @@ I'm a passionate **Software Engineer** and **DevOps Engineer** with hands-on exp
 ## 📫 How to Reach Me
 
 - GitHub: [@devadewale](https://github.com/devadewale)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: your.email@example.com
+- LinkedIn: [DevAdewale](https://www.linkedin.com/in/segun-ademola-345a60178/)
+- Email: ...
 
 ## 🌱 Current Focus
 
 - Cloud-native development
 - Site Reliability Engineering (SRE)
-- Open source contributions
+- AI developments
 
 ---
 
