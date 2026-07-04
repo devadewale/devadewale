@@ -31,3 +31,15 @@ I'm a passionate **Software Engineer** and **DevOps Engineer** with hands-on exp
 ---
 
 > “Strive for continuous improvement, not perfection.”
+
+
+## COMMIT HISTORY
+
+<div align="center">
+  <a href="https://commit-history.com/devadewale">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/devadewale?theme=dark" />
+      <img alt="devadewale's commit history" src="https://commit-history.com/embed/devadewale" />
+    </picture>
+  </a>
+</div>
